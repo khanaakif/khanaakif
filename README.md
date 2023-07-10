@@ -83,3 +83,9 @@
    </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khanaakif)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanaakif&show_icons=true&locale=en&layout=compact" alt="khanaakif" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanaakif&show_icons=true&locale=en" alt="khanaakif" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanaakif&" alt="khanaakif" /></p>
