@@ -11,7 +11,7 @@
 
 - 📄 Check out my **[Resume](https://drive.google.com/file/d/1Pqdf8wp6TjlMrqTiYVDosGJbkwvUCOyf/view?usp=sharing)**
 
-- 📫 Reach me out <a href="mailto:aakifk69@gmail.com" target="blank"><img align="center" src="https://github.com/jrreda/jrreda/blob/main/img/email.svg" alt="selenium" width="25" height="25"/> </a>  <a href="https://linkedin.com/in/jrreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jrreda" height="30" width="25" /></a>
+- 📫 Reach me out <a href="mailto:aakifk69@gmail.com" target="blank"><img align="center" src="https://github.com/jrreda/jrreda/blob/main/img/email.svg" alt="selenium" width="25" height="25"/> </a>  <a href="https://linkedin.com/in/khanaakif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khanaakif" height="30" width="25" /></a> <a href="https://kaggle.com/khanaakif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khanaakif" height="30" width="25" /></a>
 
 
  - <summary><b>🛠️ Languages &  Tools</b></summary>
