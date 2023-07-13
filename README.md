@@ -65,7 +65,7 @@
     <li><a href="https://github.com/jrreda/streamlit-neural-style-transfer">PyTorch Fast Neural Style Transfer 🎨</a></li>
     <li><a href="https://github.com/jrreda/Udacity/tree/master/MLND">IMDB Sentiment Analysis AWS Web App</a></li>  <!-- MLND -->
     <li><a href="https://public.tableau.com/profile/jrreda#!/vizhome/UdacityDSND-CreateaTableauStoryProject/Story?publish=yes">US flights performance in the first half of 2020 Analysis using Tableau ✨</a></li>  <!-- DAND -->
-    <li><a href="https://public.tableau.com/app/profile/jrreda/viz/firstyearcovid/1styearofCOVID?publish=yes">1st Year Of COVID using Tableau ✨</a></li>  <!-- Practice Projects -->
+    <li><a href="https://public.tableau.com/app/profile/aakif.khan/viz/CovidVaccineTracker01/GlobalVaccineTracker">Covid Vaccine Analysis using Tableau ✨</a></li>  <!-- Practice Projects -->
     <li><a href="https://public.tableau.com/app/profile/jrreda/viz/NetflixMoviesTVshows_16727566630580/Dashboard?publish=yes">Netflix Dashboard using Tableau ✨</a></li>  <!-- Practice Projects -->
     <li><a href="https://github.com/jrreda/AIPND-Udacity/tree/main/Project%2001%20-%20Use%20a%20Pre-trained%20Image%20Classifier%20to%20Identify%20Dog%20Breeds">Use a Pre-trained Image Classifier to Identify Dog Breeds</a></li>  <!-- AIND -->
     <li><a href="https://github.com/jrreda/AIPND-Udacity/tree/main/Project%2002%20-%20Create%20your%20own%20classifier">Developing an AI application - Flowers Recognition</a></li>  <!-- AIND -->
