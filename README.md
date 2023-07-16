@@ -60,27 +60,16 @@
 
 <details>
    <summary><b>💻 Some Projects</b></summary>
-    <ul>   
-    <li><a href="https://github.com/jrreda/streamlit-drawable-mnist">Keras + Streamlit MNIST Digit Recognizer (Drawable) Customizable MLP</a></li>
-    <li><a href="https://github.com/jrreda/streamlit-neural-style-transfer">PyTorch Fast Neural Style Transfer 🎨</a></li>
-    <li><a href="https://github.com/jrreda/Udacity/tree/master/MLND">IMDB Sentiment Analysis AWS Web App</a></li>  <!-- MLND -->
-    <li><a href="https://public.tableau.com/profile/jrreda#!/vizhome/UdacityDSND-CreateaTableauStoryProject/Story?publish=yes">US flights performance in the first half of 2020 Analysis using Tableau ✨</a></li>  <!-- DAND -->
+    <ul>
     <li><a href="https://public.tableau.com/app/profile/aakif.khan/viz/CovidVaccineTracker01/GlobalVaccineTracker">Covid Vaccine Analysis using Tableau ✨</a></li>  <!-- Practice Projects -->
     <li><a href="https://public.tableau.com/app/profile/aakif.khan/viz/Tableau2ndProject/SalesDashboard">Global Super Store Dashboard using Tableau ✨</a></li>  <!-- Practice Projects -->
-    <li><a href="https://github.com/jrreda/AIPND-Udacity/tree/main/Project%2001%20-%20Use%20a%20Pre-trained%20Image%20Classifier%20to%20Identify%20Dog%20Breeds">Use a Pre-trained Image Classifier to Identify Dog Breeds</a></li>  <!-- AIND -->
-    <li><a href="https://github.com/jrreda/AIPND-Udacity/tree/main/Project%2002%20-%20Create%20your%20own%20classifier">Developing an AI application - Flowers Recognition</a></li>  <!-- AIND -->
-    <li><a href="https://github.com/jrreda/Udacity/tree/master/DSND/02%20-%20Supervised%20Learning/10_Finding%20Donors%20Project">Project: Finding Donors for CharityML</a></li>  <!-- DSND -->
-    <li><a href="https://github.com/jrreda/Udacity/tree/master/DSND/04%20-%20Unsupervised%20Learning/06_Identify%20Customer%20Segments%20PROJECT">Identify Customer Segments</a></li>  <!-- DSND -->
-    <li><a href="https://github.com/jrreda/Udacity/tree/master/DSND/05%20-%20Software%20Engineering/5-%20Web%20Development/Advanced%20Data%20Dashboard%20Code/world_bank_api_dashboard">World Bank API Data Dashboard</a></li>  <!-- DSND -->
-    <li><a href="https://github.com/jrreda/Scrapping/blob/main/Sentiment_Analysis_with_BERT.ipynb">scraping yelp.com & perform sentiment analysis with BERT</a></li>
+    <li><a href="https://github.com/khanaakif/Oracle_HR.git">Oracle Database Analysis Using SQL</a></li>  <!-- AIND -->
     </ul>
     
    
 </details>
 
-<p align="center">
-   <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=khanaakif&show_icons=true&line_height=21&theme=react" alt="khanaakif's Github Stats" />
-   </p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khanaakif)
 
