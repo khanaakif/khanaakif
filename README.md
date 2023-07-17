@@ -9,7 +9,7 @@
 
 - <img src="https://github.com/jrreda/jrreda/blob/main/img/message.gif" width="25" />&nbsp;&nbsp; Ask me about **AI,Tech or Anything**. <br>
 
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1Pqdf8wp6TjlMrqTiYVDosGJbkwvUCOyf/view?usp=sharing)**
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1F6D9ocsw0IDMGlA1MJjesfim_S82V9Zg/view?usp=sharing)**
 
 - 📫 Reach me out <a href="mailto:aakifk69@gmail.com" target="blank"><img align="center" src="https://github.com/jrreda/jrreda/blob/main/img/email.svg" alt="selenium" width="25" height="25"/> </a>  <a href="https://linkedin.com/in/khanaakif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jrreda" height="30" width="25" /></a>  <a href="https://stackoverflow.com/users/22207417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22207417" height="30" width="25" /></a>  <a href="https://kaggle.com/khanaakif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khanaakif" height="30" width="25" /></a>
 
