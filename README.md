@@ -61,9 +61,10 @@
 <details>
    <summary><b>💻 Some Projects</b></summary>
     <ul>
-    <li><a href="https://public.tableau.com/app/profile/aakif.khan/viz/CovidVaccineTracker01/GlobalVaccineTracker">Covid Vaccine Analysis using Tableau ✨</a></li>  <!-- Practice Projects -->
-    <li><a href="https://public.tableau.com/app/profile/aakif.khan/viz/Tableau2ndProject/SalesDashboard">Global Super Store Dashboard using Tableau ✨</a></li>  <!-- Practice Projects -->
-    <li><a href="https://github.com/khanaakif/Oracle_HR.git">Oracle Database Analysis Using SQL</a></li>  <!-- AIND -->
+    <li><a href="https://public.tableau.com/app/profile/aakif.khan/viz/CovidVaccineTracker01/GlobalVaccineTracker">Covid Vaccine Analysis using Tableau :syringe:</a></li>
+    <li><a href="https://public.tableau.com/app/profile/aakif.khan/viz/Tableau2ndProject/SalesDashboard">Global Super Store Dashboard using Tableau :department_store:</a></li>
+    <li><a href="https://github.com/khanaakif/Oracle_HR.git">Oracle Database Analysis Using SQL :file_cabinet:</a></li>
+     <li><a href="https://github.com/khanaakif/Movie-Recommender-System">Movie Recommender System :clapper:</a></li>
     </ul>
     
    
