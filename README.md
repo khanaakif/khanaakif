@@ -1,5 +1,5 @@
 <h1 align="center">Hi, it's Aakif! 👋</h1>
-<h5 align="center">Data scientist by profession, problem solver by nature</h5>
+<h5 align="center">Data Analyst by profession, problem solver by nature</h5>
 
 - 🔭 I’m currently working on **My portfolio website**, but I'm using [this](https://www.datascienceportfol.io/khanaakif) for now!
 
