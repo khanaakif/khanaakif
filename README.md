@@ -1,81 +1,55 @@
-<h1 align="center">Hi, it's Aakif! 👋</h1>
-<h5 align="center">Data Analyst by profession, problem solver by nature</h5>
+<h1 align="center">Hi, I'm Aakif Khan 👋</h1>
+<h4 align="center">Enterprise Java Developer | FinTech & Business Analytics</h4>
 
-- 🔭 I’m currently working on **My portfolio website**, but I'm using [this](https://www.datascienceportfol.io/khanaakif) for now!
+<p align="center">
+  <a href="mailto:aakifk69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/khanaakif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/file/d/1F6D9ocsw0IDMGlA1MJjesfim_S82V9Zg/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+  <a href="https://github.com/khanaakif"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-<!-- - 🌱 I’m currently learning **[Cloud Computing](https://github.com/jrreda/AIPND-Udacity)** -->
+---
 
+### 👨🏻‍💻 About Me
+* 💼 **Enterprise Java Developer** with 5 years of IT experience, specializing in building high-traffic, mission-critical FinTech applications.
+* 🏗️ Passionate about **Microservices, Event-Driven Architecture (Kafka)**, and backend database performance tuning.
+* 📊 Bridging the gap between robust engineering and business intelligence by integrating backend systems directly with **Power BI & Tableau**.
+* 🎓 Post-Graduate in Business Analytics & Financial Technology from Conestoga College.
 
+### 🛠️ Tech Stack
 
-- <img src="https://github.com/jrreda/jrreda/blob/main/img/message.gif" width="25" />&nbsp;&nbsp; Ask me about **AI,Tech or Anything**. <br>
+**Backend & Architecture** <br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1F6D9ocsw0IDMGlA1MJjesfim_S82V9Zg/view?usp=sharing)**
+**Databases** <br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-- 📫 Reach me out <a href="mailto:aakifk69@gmail.com" target="blank"><img align="center" src="https://github.com/jrreda/jrreda/blob/main/img/email.svg" alt="selenium" width="25" height="25"/> </a>  <a href="https://linkedin.com/in/khanaakif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jrreda" height="30" width="25" /></a>  <a href="https://stackoverflow.com/users/22207417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22207417" height="30" width="25" /></a>  <a href="https://kaggle.com/khanaakif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khanaakif" height="30" width="25" /></a>
+**Data, Analytics & BI** <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
+**DevOps & Tools** <br>
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
- - <summary><b>🛠️ Languages &  Tools</b></summary>
-    <h5 align="left">Programming Languages:</h5>
-    <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>   </a>
-      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="25" height="25"/> </a>
+---
 
-    <h5 align="left">Data Pre-processing:</h5>
-    <p align="left">
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/> </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="25" height="25"/> </a>
-    <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="25" height="25"/> </a>
+### 💻 Featured Projects
 
-     <h5 align="left">Data Visualization:</h5>
-      <p align="left">
-      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="25" height="25"/> </a>
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="25" height="25"/> </a>
-      <a href="https://aws.amazon.com/quicksight/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/a/96/amazon-quicksight.svg" alt="quicksight" width="25" height="25"/> </a>
-      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/t/73/tableau-software.svg" alt="tableau" width="25" height="25"/> </a>
-      <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="25" height="25"/> </a>
-  
-    <h5 align="left">AI/ML:</h5>
-      <p align="left">
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="25" height="25"/> </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="25" height="25"/> </a>
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a>
+* 💉 **[Global Covid Vaccine Tracker](https://public.tableau.com/app/profile/aakif.khan/viz/CovidVaccineTracker01/GlobalVaccineTracker)**
+  An interactive Tableau dashboard mapping global vaccination distribution to identify regional rollout bottlenecks and demographic trends.
 
-    <h5 align="left">Database:</h5>
-    <p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/> </a>
+* 🏪 **[Global Super Store Dashboard](https://public.tableau.com/app/profile/aakif.khan/viz/Tableau2ndProject/SalesDashboard)**
+  Comprehensive sales analysis and performance forecasting models built with Tableau to drive business intelligence insights.
 
-    <h5 align="left">Devops:</h5>
-    <p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/a/19/aws.svg" alt="aws" width="25" height="25"/> </a>
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="25" height="25"/> </a>
-  
-    <h5 align="left">Others:</h5>
-    <p align="left">
-     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a>
-  </p>
+* 🗄️ **[Oracle Database Analysis](https://github.com/khanaakif/Oracle_HR.git)**
+  Advanced SQL querying, indexing strategies, and database optimization techniques for extracting actionable insights from HR datasets.
 
-  </p>
- </details>
-
-<details>
-   <summary><b>💻 Some Projects</b></summary>
-    <ul>
-    <li><a href="https://public.tableau.com/app/profile/aakif.khan/viz/CovidVaccineTracker01/GlobalVaccineTracker">Covid Vaccine Analysis using Tableau :syringe:</a></li>
-    <li><a href="https://public.tableau.com/app/profile/aakif.khan/viz/Tableau2ndProject/SalesDashboard">Global Super Store Dashboard using Tableau :department_store:</a></li>
-    <li><a href="https://github.com/khanaakif/Oracle_HR.git">Oracle Database Analysis Using SQL :file_cabinet:</a></li>
-     <li><a href="https://github.com/khanaakif/Movie-Recommender-System">Movie Recommender System :clapper:</a></li>
-    </ul>
-    
-   
-</details>
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=khanaakif)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanaakif&show_icons=true&locale=en&layout=compact" alt="khanaakif" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanaakif&show_icons=true&locale=en" alt="khanaakif" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanaakif&" alt="khanaakif" /></p>
+* 🎬 **[Movie Recommender System](https://github.com/khanaakif/Movie-Recommender-System)**
+  A machine learning model and recommendation engine designed to predict user preferences based on historical viewing datasets.
