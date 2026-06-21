@@ -1,11 +1,16 @@
-<h1 align="center">Hi, I'm Aakif Khan 👋</h1>
-<h4 align="center">Enterprise Java Developer | FinTech & Business Analytics</h4>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Aakif%20Khan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Enterprise+Java+Developer;FinTech+%26+Business+Analytics+Specialist;Transforming+Data+into+Insights;Microservices+%26+Kafka+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="mailto:aakifk69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/khanaakif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://drive.google.com/file/d/1F6D9ocsw0IDMGlA1MJjesfim_S82V9Zg/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
-  <a href="https://github.com/khanaakif"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.datascienceportfol.io/khanaakif"><img src="https://img.shields.io/badge/Portfolio-20BEFF?style=for-the-badge" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -40,16 +45,61 @@
 
 ---
 
-### 💻 Featured Projects
+### 🚀 Featured Projects
 
-* 💉 **[Global Covid Vaccine Tracker](https://public.tableau.com/app/profile/aakif.khan/viz/CovidVaccineTracker01/GlobalVaccineTracker)**
-  An interactive Tableau dashboard mapping global vaccination distribution to identify regional rollout bottlenecks and demographic trends.
+<table bordercolor="#333333">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Syringe.png" alt="Syringe" width="25" height="25" /> Global Covid Vaccine Tracker
+      </h3>
+      <p>An interactive data dashboard mapping global vaccination distribution to identify regional rollout bottlenecks and demographic trends.</p>
+      <div align="center">
+        <a href="https://public.tableau.com/app/profile/aakif.khan/viz/CovidVaccineTracker01/GlobalVaccineTracker">
+          <img src="https://img.shields.io/badge/View_Dashboard-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="View Dashboard"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Department%20Store.png" alt="Store" width="25" height="25" /> Global Super Store
+      </h3>
+      <p>Comprehensive sales analysis and performance forecasting models designed to drive business intelligence and operational insights.</p>
+      <div align="center">
+        <a href="https://public.tableau.com/app/profile/aakif.khan/viz/Tableau2ndProject/SalesDashboard">
+          <img src="https://img.shields.io/badge/View_Dashboard-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="View Dashboard"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="Database" width="25" height="25" /> Oracle Database Analysis
+      </h3>
+      <p>Advanced SQL querying, indexing strategies, and database optimization techniques for extracting actionable insights from complex HR datasets.</p>
+      <div align="center">
+        <a href="https://github.com/khanaakif/Oracle_HR.git">
+          <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper" width="25" height="25" /> Movie Recommender
+      </h3>
+      <p>A machine learning model and recommendation engine engineered in Python to predict user preferences based on historical viewing datasets.</p>
+      <div align="center">
+        <a href="https://github.com/khanaakif/Movie-Recommender-System">
+          <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-* 🏪 **[Global Super Store Dashboard](https://public.tableau.com/app/profile/aakif.khan/viz/Tableau2ndProject/SalesDashboard)**
-  Comprehensive sales analysis and performance forecasting models built with Tableau to drive business intelligence insights.
+<br>
 
-* 🗄️ **[Oracle Database Analysis](https://github.com/khanaakif/Oracle_HR.git)**
-  Advanced SQL querying, indexing strategies, and database optimization techniques for extracting actionable insights from HR datasets.
-
-* 🎬 **[Movie Recommender System](https://github.com/khanaakif/Movie-Recommender-System)**
-  A machine learning model and recommendation engine designed to predict user preferences based on historical viewing datasets.
+<p align="center">
+  <i>Let's connect and build something incredible together!</i>
+</p>
